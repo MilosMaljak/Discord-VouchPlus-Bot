@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Discord bot za prevenciju prevara na serverima.
+  Bot za prevenciju prevara na discord serverima za kupovinu,prodaju i razmjenu stvari.
 </p>
 
 
